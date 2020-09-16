@@ -1,0 +1,6 @@
+*.hccapx
+*.pcap
+*.rule
+*.py[cdo]
+*.db
+pyiw/
